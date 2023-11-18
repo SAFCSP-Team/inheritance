@@ -3,7 +3,7 @@
 
 **Objectives**
 
-In this project, you can create a system to manage bank accounts using object-oriented principles.
+In this project learn to understanding of inheritance in Java and how it can be applied to create a hierarchy of related classes with shared properties and behaviors.
 
 **Concepts**
 
@@ -15,7 +15,7 @@ In this project, you can create a system to manage bank accounts using object-or
 
 **Problem**
 
-Understand Hierarchy by using inheritance.
+create a system to manage bank accounts using inheritance.
 
 
 **Implementation**
