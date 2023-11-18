@@ -9,7 +9,7 @@ In this project learn to understanding of inheritance in Java and how it can be 
 
 | Concept   |      Resources      |
 |----------|:-------------:|
-|Concept of a package |  [Concept of a package ](https://github.com/nourabyte/high-level-language/blob/main/resources/what-is-a-package.md) |
+|Inheritance|  [Concept of Inheritance](https://github.com/nourabyte/oop-learn/tree/main/02-inheritance) |
 |Tutorial about Package      |    [What is a package](https://www.youtube.com/watch?v=Bua6LQO2vQ8)  |
 
 
