@@ -10,7 +10,7 @@ In this project learn to understanding of inheritance in Java and how it can be 
 | Concept   |      Resources      |
 |----------|:-------------:|
 |Inheritance|  [Concept of Inheritance](https://github.com/nourabyte/oop-learn/tree/main/02-inheritance) |
-|Tutorial about Package      |    [What is a package](https://www.youtube.com/watch?v=Bua6LQO2vQ8)  |
+|more info about Inheritance    |    [What is an Inheritance](https://dev.java/learn/inheritance/what-is-inheritance/)  |
 
 
 **Problem**
