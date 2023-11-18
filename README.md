@@ -32,8 +32,14 @@ Understand Hierarchy by using inheritance.
   * Retrieve the account number.
   * Subtract the specified amount from the account balance.
   * Retrieve the account balance.
-    
-3.CurrentAccount (Derived class)
+
+ 3. SavingsAccount (Derived class)
+
+Properties:
+interestRate: The interest rate for the savings account.
+Methods:
+calculateInterest(): Calculate and add interest to the account balance based on the interest rate.
+4. CurrentAccount (Derived class)
 * Properties: overdraftLimit.
 Methods:
   * `Override` the withdraw(amount) method to consider the overdraft limit.
