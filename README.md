@@ -25,6 +25,18 @@ Understand Hierarchy by using inheritance.
   * Create a new account and add it to the collection.
   * Retrieve an account from the collection based on the account number.
   * deposit(accountNumber, amount): Deposit the specified amount into the account.
+2. Account
+* Properties: accountNumber and balance.
+* Methods:
+  * deposit(amount): Add the specified amount to the account balance.
+  * Retrieve the account number.
+  * Subtract the specified amount from the account balance.
+  * Retrieve the account balance.
+    
+3.CurrentAccount (Derived class)
+* Properties: overdraftLimit.
+Methods:
+  * `Override` the withdraw(amount) method to consider the overdraft limit.
 
 
 
