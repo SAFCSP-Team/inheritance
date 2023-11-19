@@ -26,16 +26,16 @@ Create a hierarchy of animals using inheritance to represent different species a
 public class AnimalHierarchy {
     public static void main(String[] args) {
         Mammal lion = new Mammal("Simba", 5, "golden");
-        lion.eat();  // Output: Simba is eating like a mammal.
-        lion.sleep();  // Output: Simba is sleeping.
-        lion.giveBirth();  // Output: Simba is giving birth to live young.
-        System.out.println("Lion's fur color: " + lion.furColor);  // Output: Lion's fur color: golden
+        lion.eat();  
+        lion.sleep(); 
+        lion.giveBirth();  
+        System.out.println("Lion's fur color: " + lion.furColor);  
 
         Bird eagle = new Bird("Sky", 3, 180);
-        eagle.eat();  // Output: Sky is pecking its food.
-        eagle.sleep();  // Output: Sky is sleeping.
-        eagle.fly();  // Output: Sky is flying with a wingspan of 180.
-        System.out.println("Eagle's age: " + eagle.age);  // Output: Eagle's age: 3
+        eagle.eat();  
+        eagle.sleep();
+        eagle.fly();  
+        System.out.println("Eagle's age: " + eagle.age);  
     }
 }
 
