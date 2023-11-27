@@ -9,8 +9,9 @@ In this project learn to understanding of inheritance in Java and how it can be 
 
 | Concept   |      Resources      |
 |----------|:-------------:|
-|Inheritance|  [Concept of Inheritance](https://github.com/nourabyte/oop-learn/tree/main/02-inheritance) |
-|more info about Inheritance    |    [What is an Inheritance](https://dev.java/learn/inheritance/what-is-inheritance/)  |
+|What is an inheritance|[Inheritance Concept](https://github.com/nourabyte/oop-learn/tree/main/02-inheritance) |
+|more info about Inheritance |    [What is an Inheritance](https://dev.java/learn/inheritance/what-is-inheritance/)  |
+||[Super keyword (Tutorial)](https://www.youtube.com/watch?v=Qb_NUn0TSAU)|
 
 
 **Problem**
