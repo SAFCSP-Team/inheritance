@@ -11,7 +11,8 @@ In this project learn to understanding of inheritance in Java and how it can be 
 |----------|:-------------:|
 |What is an inheritance|[Inheritance Concept](https://github.com/nourabyte/oop-learn/tree/main/02-inheritance) |
 |more info about Inheritance |    [What is an Inheritance](https://dev.java/learn/inheritance/what-is-inheritance/)  |
-||[Super keyword (Tutorial)](https://www.youtube.com/watch?v=Qb_NUn0TSAU)|
+|Super Keyword in Java|[Super keyword (Tutorial)](https://www.youtube.com/watch?v=Qb_NUn0TSAU)|
+|detailed knowledge about Inheritance|[Java Inheritance Explained (full tutorial)](https://www.youtube.com/watch?v=nixQyPIAnOQ)|
 
 
 **Problem**
