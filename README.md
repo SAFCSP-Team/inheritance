@@ -3,7 +3,7 @@
 
 **Objectives**
 
-In this project learn to understanding of inheritance in Java and how it can be applied to create a hierarchy of related classes with shared properties and behaviors.
+In this project, we will learn to understand `inheritance` in Java and how it can be applied to create a hierarchy of related classes with shared properties and behaviors.
 
 **Concepts**
 
@@ -20,8 +20,8 @@ In this project learn to understanding of inheritance in Java and how it can be 
 Create a hierarchy of animals using inheritance to represent different species and their characteristics.
 
 **Implementation**
-* Create the Animal base class with the common properties and methods.
-* Implement derived classes for specific animal species, such as Mammal and Bird with unique properties and behaviors.
+* Create the Animal `base class` with the common properties and methods.
+* Implement `derived classes` for specific animal species, such as Mammals and Birds with unique properties and behaviors.
 * Override the eat() and sleep() methods in each derived class to provide specialized implementations.
   
 ```Java
