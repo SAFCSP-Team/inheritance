@@ -20,24 +20,21 @@ In this project, we will learn to understand `inheritance` in Java and how it ca
 Create a hierarchy of animals using inheritance to represent different species and their characteristics.
 
 **Implementation**
-* Create the Animal `base class` with the common properties and methods.
-* Implement `derived classes` for specific animal species, such as Mammals and Birds with unique properties and behaviors.
-* Override the eat() and sleep() methods in each derived class to provide specialized implementations.
+* Create a **base class** named `Animal` that initializes name, age, and eat and sound methods.
+* Override the eat() and sound() methods in each derived class to provide specialized implementations.
   
 ```Java
 public class AnimalHierarchy {
     public static void main(String[] args) {
-        Mammal lion = new Mammal("Simba", 5, "golden");
+        Mammal lion = new Mammal("Simba", 5);
         lion.eat();  
-        lion.sleep(); 
-        lion.giveBirth();  
-        System.out.println("Lion's fur color: " + lion.furColor);  
+        lion.sound(); 
+        System.out.println("Lion's sound is: " + lion.getsound);  
 
-        Bird eagle = new Bird("Sky", 3, 180);
+        Bird eagle = new Bird("Sky", 3);
         eagle.eat();  
-        eagle.sleep();
-        eagle.fly();  
-        System.out.println("Eagle's age: " + eagle.age);  
+        eagle.sound()
+        System.out.println("Eagle's age: " + eagle.getage);  
     }
 }
 
