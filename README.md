@@ -1,7 +1,7 @@
 # Inheritance
 
 
-**Objectives**
+**Objective**
 
 In this project, we will learn to understand `inheritance` in Java and how it can be applied to create a hierarchy of related classes with shared properties and behaviors.
 
@@ -9,8 +9,7 @@ In this project, we will learn to understand `inheritance` in Java and how it ca
 
 | Concept   |      Resources      |
 |----------|:-------------:|
-|What is an inheritance|[Inheritance Concept](https://github.com/nourabyte/oop-learn/tree/main/02-inheritance) |
-|more info about Inheritance |    [What is an Inheritance](https://dev.java/learn/inheritance/what-is-inheritance/)  |
+|What is an inheritance|[Inheritance Concept](), [What is an Inheritance](https://dev.java/learn/inheritance/what-is-inheritance/) |
 |Super Keyword in Java|[Super keyword (Tutorial)](https://www.youtube.com/watch?v=Qb_NUn0TSAU)|
 |detailed knowledge about Inheritance|[Java Inheritance Explained (full tutorial)](https://www.youtube.com/watch?v=nixQyPIAnOQ)|
 
