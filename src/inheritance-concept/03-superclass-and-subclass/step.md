@@ -1,4 +1,4 @@
-# Step 03: SuperClass And SubClass
+# SuperClass And SubClass
 In `inheritance`, the `superclass` and `subclass` refer to the **relationship** between **classes**. 
 
 ## Concept
