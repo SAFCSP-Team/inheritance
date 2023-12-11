@@ -1,4 +1,4 @@
-# Step 01: What is an Inheritance
+# What is an Inheritance
 Creating new classes based on **existing ones**. A class that `inherits` from another `class` can reuse the **methods and fields of that class**
 
 ## Concept
