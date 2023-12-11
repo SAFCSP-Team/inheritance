@@ -1,4 +1,4 @@
-# Step 02: Inheritance with access Modifiers
+# Inheritance with access Modifiers
 Determining the **visibility and accessibility** of members (fields, methods, and nested classes) in classes and their subclasses during `inheritance`.
 ## Concept
 1. `Public`: is used when the user wants all **child classes** to have **access** to the **parent class** from **anywhere**.
