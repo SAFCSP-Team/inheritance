@@ -9,7 +9,7 @@ In this project, we will learn to understand `inheritance` in Java and how it ca
 
 | Concept   |      Resources      |
 |----------|:-------------:|
-|What is an inheritance|[Inheritance Concept](), [What is an Inheritance](https://dev.java/learn/inheritance/what-is-inheritance/) |
+|What is an inheritance|[Inheritance Concept](https://github.com/SAFCSP-Team/inheritance/tree/main/src/inheritance-concept), [What is an Inheritance](https://dev.java/learn/inheritance/what-is-inheritance/) |
 |Super Keyword in Java|[Super keyword (Tutorial)](https://www.youtube.com/watch?v=Qb_NUn0TSAU)|
 |detailed knowledge about Inheritance|[Java Inheritance Explained (full tutorial)](https://www.youtube.com/watch?v=nixQyPIAnOQ)|
 
